@@ -2,6 +2,6 @@ Hello and welcome to this *blog*. Edit the `index.md` file to change this conten
 
 ![Image of fast.ai logo](images/logo.png)
 
-## This is a title
+## Welcome to Asabe's Blog
 
 And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
