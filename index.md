@@ -2,6 +2,6 @@ Hello and welcome to this *blog*.
 
 ![Image of fast.ai logo](images/logo.png)
 
-## Welcome to Asabe's Blog
+##  Data Science Life
 
 
